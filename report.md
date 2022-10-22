@@ -496,4 +496,4 @@ https://www.h-schmidt.net/FloatConverter/IEEE754.html
 https://cpp.rainy.me/012-floating-point.html
 
 フィボナッチ数列について
-https://www.nli-research.co.jp/report/detail/id=66771?site=nli
+https://www.nli-research.co.jp/report/detail/id=66771
