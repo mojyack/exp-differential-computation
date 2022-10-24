@@ -3,6 +3,6 @@
 EXEC="build/dxdt"
 OUT="output/dxdt"
 
-for i in {1..100}; {
+for i in {10..100}; {
     echo -e "$i\n" | "$EXEC" 2>> "$OUT"
 }

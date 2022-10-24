@@ -1,3 +1,5 @@
+#include <numbers>
+
 #include "util.hpp"
 
 using Float = float;
@@ -17,6 +19,6 @@ auto main() -> int {
         x += v;
         t += dt;
     }
-    fprintf(stderr, "%lu %f\n", n, x);
+    fprintf(stderr, "%lu %f\n", n, 1 / std::numbers::e - x);
     return 0;
 }
